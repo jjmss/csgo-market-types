@@ -1,0 +1,19 @@
+{
+  "name": "@csgo-market/csgo-market-types",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jjmss/csgo-market-types.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jjmss/csgo-market-types/issues"
+  },
+  "homepage": "https://github.com/jjmss/csgo-market-types#readme"
+}
