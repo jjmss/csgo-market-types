@@ -1,1 +1,5 @@
-# @csgo-market/csgo-market-types
+# @csgo-market/types
+
+```Bash
+npm install @csgo-market/types
+```
