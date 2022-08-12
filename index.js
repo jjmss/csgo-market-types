@@ -23,7 +23,7 @@ exports.WARNING_TYPES = {
 
 /**
  * @description Authentication scopes
- * @since 1.0.2
+ * @since 1.1.0
  */
 exports.SCOPES = {
 	READ: {
@@ -50,7 +50,7 @@ exports.SCOPES = {
 
 /**
  * @description Different publication states for listings
- * @since 1.0.2
+ * @since 1.1.0
  */
 exports.PUBLICATION_STATE = {
 	/**
